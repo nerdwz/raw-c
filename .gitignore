@@ -1,0 +1,18 @@
+# compiled output
+*.exe
+*.out
+*.o
+*.obj
+
+# dev-c++ project files
+*.dev
+*.layout
+
+# debug
+*.pdb
+*.map
+
+# windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
