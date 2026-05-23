@@ -23,6 +23,7 @@
  		scanf("%d", &age);
  		
  	printf("Your are %d years old.", age);
+ 	printf("You are %d years old.\n", age);
  	
  	return 0;
  }
