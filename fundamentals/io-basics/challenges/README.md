@@ -88,21 +88,25 @@ Total cost: R$ 147.25
 ## medium
 
 ### challenge 06 — personal card
+
 Ask the user for name, age, height, and weight. Print a formatted card with BMI (no classification needed).
 
 > BMI = weight / (height * height)
 
 **Expected output:**
-```
-╔══════════════════╗
-║   Personal Card  ║
-╠══════════════════╣
-║ Name  : John     ║
-║ Age   : 22       ║
-║ Height: 1.75m    ║
-║ Weight: 70kg     ║
-║ BMI   : 22.86    ║
-╚══════════════════╝
+
+---
+
+```text
+================================
+         Personal Card
+================================
+Name   : John
+Age    : 22
+Height : 1.75m
+Weight : 70kg
+BMI    : 22.86
+================================
 ```
 
 **File:** `challenge06.c`
