@@ -59,8 +59,8 @@ typedef struct {
 CurrentStudy now = {
   .topic = "fundamentos",   // 📖 in progress
   .items = {
-    "[ ] variáveis e tipos de dados",
-    "[ ] operadores",
+    "[x] variáveis e tipos de dados",
+    "[x] operadores",
     "[ ] if / else / switch",
     "[ ] for / while / do-while",
   },
