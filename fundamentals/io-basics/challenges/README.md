@@ -17,7 +17,7 @@ Centimeters : 250000.00
 Millimeters : 2500000.00
 ```
 
-**File:** `challenge01.c`
+**File:** `01-unit-converter.c`
 
 ---
 
@@ -32,7 +32,7 @@ Speed: 75.00 km/h
 Speed: 20.83 m/s
 ```
 
-**File:** `challenge02.c`
+**File:** `02-speed-calculator.c`
 
 ---
 
@@ -48,7 +48,7 @@ Coverage per can (m2): 6
 Cans needed: 4.00
 ```
 
-**File:** `challenge03.c`
+**File:** `03-paint-calculator.c`
 
 ---
 
@@ -64,7 +64,7 @@ Tax (10%) : R$  100.00
 Net pay   : R$  900.00
 ```
 
-**File:** `challenge04.c`
+**File:** `04-paycheck.c`
 
 ---
 
@@ -81,7 +81,7 @@ Liters needed: 25.00
 Total cost: R$ 147.25
 ```
 
-**File:** `challenge05.c`
+**File:** `05-trip-fuel-cost.c`
 
 ---
 
@@ -109,7 +109,7 @@ BMI    : 22.86
 ================================
 ```
 
-**File:** `challenge06.c`
+**File:** `06-personal-card.c`
 
 ---
 
@@ -126,7 +126,7 @@ Enter two numbers: 9 4
 9 % 4       = 1
 ```
 
-**File:** `challenge07.c`
+**File:** `07-full-calculator.c`
 
 ---
 
@@ -145,7 +145,7 @@ Total  : 31.00
 Average: 7.75
 ```
 
-**File:** `challenge08.c`
+**File:** `08-semester-report.c`
 
 ---
 
@@ -163,7 +163,7 @@ Volume      : 282.74
 Surface area: 245.04
 ```
 
-**File:** `challenge09.c`
+**File:** `09-cylinder-stats.c`
 
 ---
 
@@ -185,7 +185,7 @@ Tax (8%)         R$  2.84
 Total            R$ 38.34
 ```
 
-**File:** `challenge10.c`
+**File:** `10-formatted-invoice.c`
 
 ---
 
@@ -204,7 +204,7 @@ Minutes: 46
 Seconds: 40
 ```
 
-**File:** `challenge11.c`
+**File:** `11-time-breakdown.c`
 
 ---
 
@@ -227,6 +227,6 @@ Memory (KB)   : 6075.00
 Memory (MB)   : 5.93
 ```
 
-**File:** `challenge12.c`
+**File:** `12-pixel-art-canvas.c`
 
 ---
