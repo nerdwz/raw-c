@@ -160,7 +160,7 @@ Ask the user for radius and height of a cylinder. Print volume and surface area.
 Radius: 3
 Height: 10
 Volume      : 282.74
-Surface area: 244.35
+Surface area: 245.04
 ```
 
 **File:** `challenge09.c`
