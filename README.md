@@ -61,7 +61,7 @@ CurrentStudy now = {
   .items = {
     "[x] variáveis e tipos de dados",
     "[x] operadores",
-    "[ ] if / else / switch",
+    "[x] if / else / switch",
     "[ ] for / while / do-while",
   },
 };
