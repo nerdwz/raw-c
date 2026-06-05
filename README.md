@@ -62,7 +62,7 @@ CurrentStudy now = {
     "[x] variáveis e tipos de dados",
     "[x] operadores",
     "[x] if / else / switch",
-    "[ ] for / while / do-while",
+    "[x] for / while / do-while",
   },
 };
 ```
